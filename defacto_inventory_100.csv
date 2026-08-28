@@ -1,0 +1,101 @@
+Item_ID,Item_Name,Category,Price_EGP,Size_Range,Stock_Status,Stock_Quantity,Aisle_Location
+DF-61515,Slim Fit Crew Neck Basic Modal Short Sleeve T-Shirt (White),Women's Wear,1499,28-36,In Stock,116,Aisle A-3
+DF-24413,Regular Fit Crew Neck Basic Ribana Short Sleeve T-Shirt (Burgundy),Women's Wear,899,Standard,In Stock,110,Aisle A-13
+DF-44526,Oversize Fit Linen Long Sleeve Shirt (Olive Green),Women's Wear,1299,S-XXL,Low Stock,20,Aisle A-8
+DF-36721,High Waist Wide Leg Trousers (Black),Women's Wear,449,M-XL,In Stock,85,Aisle A-5
+DF-58504,Relax Fit Shirt Collar Woven Blazer (White),Women's Wear,1999,M-XL,In Stock,48,Aisle A-6
+DF-82797,Regular Fit Round-Neck Strappy Dress (Burgundy),Women's Wear,699,28-36,In Stock,53,Aisle A-8
+DF-93683,Poplin Oversize Striped Shirt (Navy Blue),Women's Wear,1699,28-36,In Stock,41,Aisle A-11
+DF-29346,90s Wide Leg High Waist Washed Jeans (Black),Women's Wear,999,M-XL,Low Stock,1,Aisle A-7
+DF-13425,Disney Mickey & Minnie Oversize T-Shirt (Grey Melange),Women's Wear,449,36-44,In Stock,41,Aisle A-3
+DF-60811,Balloon Fit Regular Hem Linen Blended Trousers (Burgundy),Women's Wear,1499,M-XL,In Stock,114,Aisle A-11
+DF-89835,Regular Fit 100% Cotton Crew Neck Long Sleeve T-Shirt (White),Women's Wear,1499,36-44,In Stock,141,Aisle A-1
+DF-87381,Elastic Band Balloon Fit Trousers (White),Women's Wear,1299,36-44,In Stock,129,Aisle A-5
+DF-57578,A-Line Floral Print Summer Dress (Navy Blue),Women's Wear,899,36-44,In Stock,87,Aisle A-14
+DF-49308,Knitwear Cardigan with V-Neck (Beige),Women's Wear,1699,28-36,Low Stock,15,Aisle A-2
+DF-67334,Faux Leather Moto Jacket (Burgundy),Women's Wear,449,28-36,In Stock,64,Aisle A-14
+DF-43319,Mom Fit High Rise Jeans (Grey Melange),Women's Wear,1999,36-44,In Stock,126,Aisle A-10
+DF-31588,Cropped Ribbed Tank Top (White),Women's Wear,1699,S-XXL,In Stock,149,Aisle A-6
+DF-88035,Oversized Knit Sweater (Black),Women's Wear,1299,Standard,Low Stock,30,Aisle A-1
+DF-95305,Pleated Midi Skirt (White),Women's Wear,999,Standard,In Stock,134,Aisle A-4
+DF-11641,Denim Overall Dress (Grey Melange),Women's Wear,599,36-44,In Stock,91,Aisle A-8
+DF-78849,Slim Fit Denim Jacket Classic (Burgundy),Men's Wear,449,S-XXL,In Stock,121,Aisle B-14
+DF-23635,Chino Shorts with Elastic Waistband (Black),Men's Wear,299,36-44,In Stock,53,Aisle B-7
+DF-15095,Oversize Hooded Cotton Sweatshirt (Beige),Men's Wear,1999,M-XL,In Stock,122,Aisle B-9
+DF-72111,Regular Fit V-Neck Knitwear Sweater (Burgundy),Men's Wear,299,28-36,In Stock,41,Aisle B-13
+DF-30639,Cargo Trousers with Pocket Details (Grey Melange),Men's Wear,1999,S-XXL,In Stock,50,Aisle B-4
+DF-21821,Regular Fit Oxford Long Sleeve Shirt (Black),Men's Wear,449,S-XXL,In Stock,35,Aisle B-11
+DF-62693,Polo Collar Cotton Pique T-Shirt (Black),Men's Wear,1299,Standard,Low Stock,17,Aisle B-12
+DF-55044,Slim Fit Stretch Chino Trousers (Black),Men's Wear,799,36-44,In Stock,109,Aisle B-8
+DF-85987,Water Repellent Hooded Windbreaker (Burgundy),Men's Wear,449,28-36,In Stock,134,Aisle B-10
+DF-37352,Basic V-Neck Underwear T-Shirt (Grey Melange),Men's Wear,399,Standard,In Stock,106,Aisle B-14
+DF-45256,Heavyweight Oversized Graphic Tee (Grey Melange),Men's Wear,1999,28-36,Low Stock,19,Aisle B-10
+DF-16206,Tracksuit Trousers with Side Stripes (Beige),Men's Wear,449,Standard,Low Stock,24,Aisle B-4
+DF-49907,Regular Fit Denim Shirt (Beige),Men's Wear,499,Standard,Out of Stock,0,Aisle B-13
+DF-62776,Flannel Checked Shirt with Hood (Black),Men's Wear,499,S-XXL,In Stock,142,Aisle B-4
+DF-94249,Bomber Jacket with Ribbed Trims (Black),Men's Wear,499,S-XXL,In Stock,56,Aisle B-11
+DF-56217,Athletic Quick-Dry Training Shorts (Burgundy),Men's Wear,1699,S-XXL,Low Stock,22,Aisle B-10
+DF-34152,Corduroy Button-Down Shirt (Navy Blue),Men's Wear,1299,28-36,Low Stock,8,Aisle B-13
+DF-82596,Skinny Fit Ripped Jeans (Black),Men's Wear,1699,S-XXL,In Stock,90,Aisle B-13
+DF-11789,Cable-Knit Crewneck Sweater (White),Men's Wear,1199,M-XL,Out of Stock,0,Aisle B-12
+DF-59880,Linen Blend Casual Blazer (Burgundy),Men's Wear,699,Standard,In Stock,129,Aisle B-3
+DF-31100,Baby Boy 100% Cotton Bodysuit 3-Pack (Beige),Kids,449,28-36,In Stock,50,Aisle C-15
+DF-19590,Girl Floral Print Cotton Dress (Olive Green),Kids,1999,36-44,In Stock,140,Aisle C-5
+DF-86596,Boy Cargo Shorts with Pockets (Burgundy),Kids,699,28-36,In Stock,34,Aisle C-10
+DF-24586,Toddler Unisex Hooded Sweatshirt (Olive Green),Kids,399,S-XXL,In Stock,77,Aisle C-14
+DF-70082,Girl Knit Leggings 2-Pack (Olive Green),Kids,299,36-44,In Stock,57,Aisle C-7
+DF-67872,Boy Graphic Print Short Sleeve T-Shirt (Beige),Kids,349,Standard,Low Stock,22,Aisle C-1
+DF-23922,Baby Girl Ruffled Denim Overalls (Beige),Kids,399,S-XXL,In Stock,144,Aisle C-8
+DF-22513,Unisex Kids Fleece Tracksuit Set (Burgundy),Kids,1199,S-XXL,In Stock,75,Aisle C-11
+DF-82700,Girl Sequined Party Dress (Olive Green),Kids,399,36-44,In Stock,37,Aisle C-13
+DF-84146,Boy Slim Fit Stretch Jeans (Olive Green),Kids,599,M-XL,In Stock,43,Aisle C-12
+DF-25204,Kids Waterproof Raincoat (Beige),Kids,1699,S-XXL,In Stock,124,Aisle C-6
+DF-55651,Baby Knit Cardigan with Hood (Burgundy),Kids,449,28-36,In Stock,72,Aisle C-12
+DF-24810,Toddler Printed Pajama Set (White),Kids,449,S-XXL,Low Stock,3,Aisle C-9
+DF-16830,Boy Button-Down Plaid Shirt (Olive Green),Kids,799,S-XXL,In Stock,32,Aisle C-11
+DF-36678,Girl Denim Skirt with Elastic Waist (Burgundy),Kids,899,28-36,In Stock,89,Aisle C-8
+DF-13847,Basic Canvas Low-Top Sneakers (Beige),Footwear,999,S-XXL,In Stock,129,Aisle D-5
+DF-23996,Classic Leather Running Shoes (Olive Green),Footwear,1699,36-44,In Stock,134,Aisle D-13
+DF-40496,Casual Suede Loafers (Burgundy),Footwear,1999,M-XL,Low Stock,10,Aisle D-10
+DF-52072,Faux Leather Ankle Boots (Beige),Footwear,449,S-XXL,Low Stock,29,Aisle D-6
+DF-67359,Sporty Mesh Training Sneakers (Black),Footwear,499,Standard,Low Stock,26,Aisle D-5
+DF-54991,Chunky Sole Platform Trainers (Olive Green),Footwear,349,M-XL,In Stock,83,Aisle D-3
+DF-65547,Slide Sandals with Logo Print (Olive Green),Footwear,1999,36-44,In Stock,39,Aisle D-4
+DF-51215,Classic Brogue Dress Shoes (Black),Footwear,999,S-XXL,In Stock,80,Aisle D-4
+DF-12088,Waterproof Hiking Boots (Navy Blue),Footwear,799,M-XL,Low Stock,28,Aisle D-15
+DF-88588,Comfort Foam Everyday Slippers (White),Footwear,799,36-44,In Stock,41,Aisle D-12
+DF-10958,Leather Look Belt with Square Buckle (Grey Melange),Accessories,799,S-XXL,In Stock,138,Aisle D-6
+DF-30331,Canvas Backpack with Laptop Sleeve (Black),Accessories,699,28-36,Low Stock,15,Aisle D-7
+DF-43214,Polarized Retro Sunglasses (White),Accessories,449,28-36,In Stock,46,Aisle D-5
+DF-61368,Ribbed Knit Beanie Hat (White),Accessories,1999,Standard,In Stock,102,Aisle D-15
+DF-41567,Structured Crossbody Bag (Navy Blue),Accessories,1299,Standard,Low Stock,7,Aisle D-5
+DF-64522,Stainless Steel Minimalist Watch (Grey Melange),Accessories,299,36-44,In Stock,45,Aisle D-11
+DF-90797,Cotton Baseball Cap with Embroidery (Black),Accessories,399,Standard,Low Stock,30,Aisle D-13
+DF-77919,Large Capacity Travel Duffel Bag (Beige),Accessories,1499,Standard,In Stock,54,Aisle D-11
+DF-54210,Warm Plaid Fringed Scarf (White),Accessories,799,28-36,Low Stock,5,Aisle D-14
+DF-19733,Leather Bi-Fold Wallet (Black),Accessories,999,Standard,In Stock,127,Aisle D-1
+DF-70009,Slim Fit Crew Neck Basic Modal Short Sleeve T-Shirt (Navy Blue),Women's Wear,1499,S-XXL,In Stock,66,Aisle A-10
+DF-57679,Regular Fit Crew Neck Basic Ribana Short Sleeve T-Shirt (Olive Green),Women's Wear,899,36-44,In Stock,73,Aisle A-7
+DF-54551,Oversize Fit Linen Long Sleeve Shirt (Navy Blue),Women's Wear,1299,M-XL,In Stock,32,Aisle A-3
+DF-75417,High Waist Wide Leg Trousers (Beige),Women's Wear,449,28-36,In Stock,104,Aisle A-13
+DF-20095,Relax Fit Shirt Collar Woven Blazer (Burgundy),Women's Wear,449,S-XXL,In Stock,135,Aisle A-3
+DF-46685,Regular Fit Round-Neck Strappy Dress (White),Women's Wear,999,S-XXL,Low Stock,4,Aisle A-13
+DF-15956,Poplin Oversize Striped Shirt (Grey Melange),Women's Wear,599,28-36,In Stock,56,Aisle A-7
+DF-54962,90s Wide Leg High Waist Washed Jeans (Olive Green),Women's Wear,599,Standard,In Stock,121,Aisle A-12
+DF-90176,Disney Mickey & Minnie Oversize T-Shirt (Burgundy),Women's Wear,499,S-XXL,In Stock,130,Aisle A-14
+DF-62876,Balloon Fit Regular Hem Linen Blended Trousers (Burgundy),Women's Wear,499,M-XL,In Stock,95,Aisle A-4
+DF-80168,Regular Fit 100% Cotton Crew Neck Long Sleeve T-Shirt (Beige),Women's Wear,499,S-XXL,Low Stock,1,Aisle A-2
+DF-72801,Elastic Band Balloon Fit Trousers (Burgundy),Women's Wear,1199,S-XXL,In Stock,70,Aisle A-7
+DF-15604,A-Line Floral Print Summer Dress (Olive Green),Women's Wear,1199,Standard,In Stock,141,Aisle A-14
+DF-74307,Knitwear Cardigan with V-Neck (Beige),Women's Wear,349,Standard,In Stock,46,Aisle A-2
+DF-90233,Faux Leather Moto Jacket (Olive Green),Women's Wear,349,M-XL,In Stock,135,Aisle A-6
+DF-61836,Mom Fit High Rise Jeans (Burgundy),Women's Wear,899,M-XL,In Stock,103,Aisle A-1
+DF-66877,Cropped Ribbed Tank Top (Navy Blue),Women's Wear,1499,28-36,In Stock,45,Aisle A-10
+DF-10206,Oversized Knit Sweater (Grey Melange),Women's Wear,799,M-XL,Low Stock,20,Aisle A-6
+DF-88647,Pleated Midi Skirt (Navy Blue),Women's Wear,799,28-36,Low Stock,2,Aisle A-14
+DF-79292,Denim Overall Dress (Navy Blue),Women's Wear,799,M-XL,In Stock,114,Aisle A-11
+DF-94159,Slim Fit Denim Jacket Classic (Grey Melange),Men's Wear,399,M-XL,In Stock,121,Aisle B-4
+DF-24516,Chino Shorts with Elastic Waistband (Navy Blue),Men's Wear,299,28-36,Low Stock,2,Aisle B-7
+DF-41487,Oversize Hooded Cotton Sweatshirt (Grey Melange),Men's Wear,399,36-44,In Stock,62,Aisle B-14
+DF-48901,Regular Fit V-Neck Knitwear Sweater (Grey Melange),Men's Wear,699,28-36,In Stock,44,Aisle B-5
+DF-98752,Cargo Trousers with Pocket Details (Olive Green),Men's Wear,699,28-36,In Stock,98,Aisle B-10
